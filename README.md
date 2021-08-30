@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NazishZaidi
 - 👀 I’m interested in Learning Python for Data Science
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on Data Science Projects (Exploratory Data Analysis)
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me ... pgp18.syednazish@sojimr.org
 
 <!---
